@@ -1,13 +1,13 @@
 {
     "rotation":"file_id",
     "sale":"file_id",
-    "token":"<TOKEN>",
-    "token_logbot":"<TOKEN>",
+    "token":"259848345:AAHTP93gFJZA-kqUrVXvoNc944OL0UjBirM",
+    "token_logbot":"259848345:AAHTP93gFJZA-kqUrVXvoNc944OL0UjBirM",
     "lol_api":"<API_KEY>",
-    "botan_token":"<BOTAN_TOKEN>",
+    "botan_token":"259848345:AAHTP93gFJZA-kqUrVXvoNc944OL0UjBirM",
     "log":true,
     "admins":[
-        0
+        208094932
     ],
     "beta":[
         0
